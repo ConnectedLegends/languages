@@ -1,0 +1,22 @@
+{
+    "test.hello": "Hello %s how is u? its %s",
+
+    "coreutils.fly.enable": "Du kanst jetzt fliegen",
+    "coreutils.fly.disable": "Du kanst jetzt nicht mehr fliegen",
+
+    "coreutils.feed": "Du wurdest gefüttert!",
+
+    "coreutils.gm.error": "Gamemode konnte nicht gesetzt werden!",
+    "coreutils.gm.set": "Du bist jetzt im %s mode!",
+
+    "coreutils.heal": "Du wurdest geheilt!",
+
+    "coreutils.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
+    "coreutils.missing-permission": "Du hast nicht genug rechte dafür!",
+    "coreutils.usage": "Benutze: %s",
+
+    "language.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
+    "language.usage": "Benutze: %s",
+    "language.update-success": "Deine sprache ist jetzt deutsch!",
+    "language.internal-error": "Oops etwas lief gewaltig scheif"
+}
