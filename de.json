@@ -15,8 +15,16 @@
     "coreutils.missing-permission": "Du hast nicht genug rechte dafür!",
     "coreutils.usage": "Benutze: %s",
 
+    "coreutils.teleport.not-for-you": "Diese teleport anfrage war nicht an dich gerichtet!",
+    "coreutils.teleport.accept": "%s hat deine anfrage angenommen!",
+    "coreutils.teleport.deny": "%s hat deine anfrage abgelent!",
+    "coreutils.teleport.request": "Teleportanfrage von %s",
+
     "language.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
     "language.usage": "Benutze: %s",
     "language.update-success": "Deine sprache ist jetzt deutsch!",
-    "language.internal-error": "Oops etwas lief gewaltig scheif"
+    "language.internal-error": "Oops etwas lief gewaltig scheif",
+
+    "language.reloading": "Lade sprachen neu...",
+    "language.reloading.ok": "Sprachen neu geladen!"
 }
