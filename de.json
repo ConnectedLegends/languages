@@ -20,11 +20,29 @@
     "coreutils.teleport.deny": "%s hat deine anfrage abgelent!",
     "coreutils.teleport.request": "Teleportanfrage von %s",
 
+    "coreutils.request.deny_success": "Anfrage erfolgreich abgelent",
+    "coreutils.request.accept_success": "Anfrage erfolgreich angenommen",
+    "coreutils.request.send_success": "Anfrage erfolgreich gesendet",
+
     "language.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
     "language.usage": "Benutze: %s",
     "language.update-success": "Deine sprache ist jetzt deutsch!",
     "language.internal-error": "Oops etwas lief gewaltig scheif",
 
     "language.reloading": "Lade sprachen neu...",
-    "language.reloading.ok": "Sprachen neu geladen!"
+    "language.reloading.ok": "Sprachen neu geladen!",
+
+    "economy.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
+    "economy.usage": "Benutze %s",
+    "economy.balance": "Kontostand für %s: %.2f",
+    "economy.internal-error": "Oops etwas lief gewaltig scheif",
+    "economy.top": "Top spieler:",
+    "economy.cache-clear": "Cache erfolgreich gelöscht!",
+    "economy.invalid-number": "Die zahl ist kein valider wert",
+    "economy.no-money": "Kontostand zu niedrig!",
+    "economy.payment-ok": "Bezahlung wahr erfolgreich!",
+    "economy.payment": "Du hast %.2f von %s bekomment!",
+    "economy.action-ok": "Aktion erfolgreich",
+    "economy.wrong-args": "Falsche argumente!",
+    "economy.subcommand-not-found": "Unterbefehl %s nicht gefunden!"
 }
