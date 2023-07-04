@@ -24,6 +24,11 @@
     "coreutils.request.accept_success": "Anfrage erfolgreich angenommen",
     "coreutils.request.send_success": "Anfrage erfolgreich gesendet",
 
+    "coreutils.request.auto_accept": "Anfrage von %s automatisch angenommen",
+    "coreutils.request.auto_deny": "Anfrage von %s automatisch abgelent",
+
+    "coreutils.ok": "Erfolgreich ausgefürt",
+
     "language.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
     "language.usage": "Benutze: %s",
     "language.update-success": "Deine sprache ist jetzt deutsch!",
