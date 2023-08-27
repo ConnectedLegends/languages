@@ -11,6 +11,8 @@
 
     "coreutils.heal": "Du wurdest geheilt!",
 
+    "coreutils.locate": "Der Spieler %s befindet sich auf %s",
+
     "coreutils.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
     "coreutils.missing-permission": "Du hast nicht genug rechte dafür!",
     "coreutils.usage": "Benutze: %s",
@@ -23,6 +25,7 @@
     "coreutils.request.deny_success": "Anfrage erfolgreich abgelent",
     "coreutils.request.accept_success": "Anfrage erfolgreich angenommen",
     "coreutils.request.send_success": "Anfrage erfolgreich gesendet",
+    "coreutils.request.player_offline": "Der Spieler %s ist nicht online",
 
     "coreutils.request.auto_accept": "Anfrage von %s automatisch angenommen",
     "coreutils.request.auto_deny": "Anfrage von %s automatisch abgelent",
