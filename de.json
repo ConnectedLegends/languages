@@ -11,7 +11,8 @@
 
     "coreutils.heal": "Du wurdest geheilt!",
 
-    "coreutils.locate": "Der Spieler %s befindet sich auf %s",
+    "coreutils.locate.other": "Der Spieler %s befindet sich auf %s",
+    "coreutils.locate.self": "Du befindest dich auf %s",
 
     "coreutils.invalid-sender": "Du must ein spieler sein um diesen befehl zu benutzen!",
     "coreutils.missing-permission": "Du hast nicht genug rechte dafür!",
