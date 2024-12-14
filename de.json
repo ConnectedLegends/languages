@@ -53,14 +53,14 @@
     "economy.payment": "Du hast %.2f von %s bekomment!",
     "economy.action-ok": "Aktion erfolgreich",
     "economy.wrong-args": "Falsche argumente!",
-    "economy.subcommand-not-found": "Unterbefehl %s nicht gefunden!"
+    "economy.subcommand-not-found": "Unterbefehl %s nicht gefunden!",
 
     "SPOT.usage": "Benutze %s",
-    "SPOT.playerNotFound": "Der Spieler %s ist nicht online oder wurde nicht gefunden"
-    "SPOT.find.start": "Der Spieler %s ist an folgender Position"
-    "SPOT.find.server": "Server: %s"
-    "SPOT.find.world": "Welt: %S"
-    "SPOT.find.cordinates": "Kordinaten: %.0f %.0f %.0f"
+    "SPOT.playerNotFound": "Der Spieler %s ist nicht online oder wurde nicht gefunden",
+    "SPOT.find.start": "Der Spieler %s ist an folgender Position",
+    "SPOT.find.server": "Server: %s",
+    "SPOT.find.world": "Welt: %S",
+    "SPOT.find.cordinates": "Kordinaten: %.0f %.0f %.0f",
     "SPOT.find.playerWentOffline": "Der Spieler den du suchst scheint in diesem Moment offline gegangen zu sein"
     
 }
