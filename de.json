@@ -54,4 +54,9 @@
     "economy.action-ok": "Aktion erfolgreich",
     "economy.wrong-args": "Falsche argumente!",
     "economy.subcommand-not-found": "Unterbefehl %s nicht gefunden!"
+
+    "SPOT.usage": "Benutze %s",
+    "SPOT.playernotfound": "Der Spieler %s ist nicht online oder wurde nicht gefunden"
+    "SPOT.find.location": "Der Spieler %s ist an folgender Position"
+    
 }
